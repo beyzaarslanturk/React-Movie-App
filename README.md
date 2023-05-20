@@ -4,7 +4,7 @@
 
 
 
-#### In this project, the user can create his own tweet. She determines the information related to the user and the tweet she wants. User can download the created tweet. This project was completed using SCSS and React.js and my purpose in making this project was to experience the core React.js features. <br> <br> <br>
+#### This is a movie application. We see the movies in the project via an API. When a word related to the desired movie is typed in the search section, we can access all the movies in that word. Subjects and scores of movies are also available. This project was completed using CSS, Tailwind, and React.js and my purpose in making this project was to experience basic React.js features. The project was done responsive design.<br> <br> <br>
 
 My achievements were:
 - Master layout creation
@@ -13,13 +13,14 @@ My achievements were:
 - React hooks
 - Regular Expression
 - Responsive Design
+- API
 
 
 diff
 - (That project upload for seeing my self-improvement ) ! 
 
 
-## If you want to see my project <a href="https://beyzarslanturk-fake-tweet.surge.sh/">Click Here!</a> 
+## If you want to see my project <a href="https://beyzaarslanturk-react-movie-app.surge.sh/">Click Here!</a> 
 
 
 ![alt text](https://github.com/beyzaarslanturk/React-Movie-App/blob/master/movie-app.png)
